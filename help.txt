@@ -1,0 +1,6 @@
+Installation: pip3 install sly
+
+Examples of use:
+1) x = 6
+2) step x
+3) step 5

@@ -1,2 +1,0 @@
-if not conditionA 
-# Your code here
